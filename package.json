@@ -2,20 +2,10 @@
   "name": "kimjang-toolkit.github.io",
   "version": "0.0.1",
   "description": "kimjang-toolkit wiki page",
-  "homepage": "https://kimjang-toolkit.github.io/",
   "scripts": {
     "dev": "next dev",
     "build": "next build ",
     "start": "next start"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
-  },
-  "author": "Shu Ding <g@shud.in>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
   },
   "dependencies": {
     "next": "^13.0.6",
