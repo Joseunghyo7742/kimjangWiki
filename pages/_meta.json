@@ -1,6 +1,7 @@
 {
   "index": "개요",
   "chatProject": { "title": "채팅프로젝트" },
+
   "about": {
     "title": "About",
     "type": "page"
